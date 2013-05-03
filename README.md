@@ -43,11 +43,7 @@ For IPv6 fan boys (add the option -6).
 
 And then everything is ready to be used. Go to following address to use your OpenUDC instances:
 
-```http://127.0.0.1:8000/```
-
-or
-
-```http://[::1]:8000``` (for IPv6 users).
+    http://localhost:8000/
 
 References
 ----------
